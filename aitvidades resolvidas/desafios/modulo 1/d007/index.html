@@ -4,8 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>d007</title>
+    <link rel="shortcut icon" href="image/favicon.png" type="image/x-icon">
 </head>
 <body>
-    
+    <h1>Imagem Flexível</h1>
+    <p>Você está venda a imagem completa? Experimente ampliar o tamanho da sua janela para aproveitar a melhor experiência &#x1F60A</p>
+    <picture>
+        <source media="(max-width: 750px)" srcset="image/paisagem-p.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="image/paisagem-m.png" type="image/png">
+        <img src="image/paisagem-g.png" alt="Imagem flexível">
+    </picture>
 </body>
 </html>
