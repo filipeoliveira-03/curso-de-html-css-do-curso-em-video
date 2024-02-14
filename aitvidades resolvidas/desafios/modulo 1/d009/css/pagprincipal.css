@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #1D1D1D;
+}
+
+.center01 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center02 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
