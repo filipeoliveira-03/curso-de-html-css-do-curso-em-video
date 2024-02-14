@@ -1,5 +1,5 @@
 # curso-de-html-css-do-curso-em-video
-Tecnologias utilizadas
+**Tecnologias utilizadas**
 1.
 2.
 3. 
