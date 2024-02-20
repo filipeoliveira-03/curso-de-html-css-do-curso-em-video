@@ -1,0 +1,15 @@
+@font-face {
+    
+    src: url();
+}
+
+header {
+    text-align: center;
+    background-image: linear-gradient(to top, #1B5936, #39BF68);
+    color: white;
+    padding: 10px;
+}
+
+margin > header {
+    margin: 0px;
+}
