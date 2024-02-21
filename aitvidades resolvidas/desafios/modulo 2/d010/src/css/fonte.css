@@ -1,4 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
 @font-face {
-    font-family: "._idroid";
-    src: url(../fonts/._idroid.otf);
+    font-family: 'Android';
+    src: url(../fonts/idroid.otf);
 }
