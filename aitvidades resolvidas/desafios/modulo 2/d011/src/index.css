@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    position: relative;
+    margin: 0;
+}
+
+.espaço {
+    position: absolute;
+    width: 100%;
+}
+
+.astronauta {
+    width: 40%;
+    margin: auto;
+    position: 0%;
+}
+
