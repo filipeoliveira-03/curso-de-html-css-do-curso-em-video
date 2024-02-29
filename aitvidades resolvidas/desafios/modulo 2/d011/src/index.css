@@ -3,19 +3,14 @@
     padding: 0;
 }
 
-div {
-    position: relative;
-    margin: 0;
-}
-
 .espaço {
     position: absolute;
     width: 100%;
 }
 
 .astronauta {
-    width: 40%;
-    margin: auto;
-    position: 0%;
+    position: absolute;
+    width: 50%;
+    padding-left: 190px;
 }
 
